@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db28037f-41c6-4f6e-91df-ca7f47441f1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KNN Working File.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNN Working File.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN Working File.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
